@@ -1,16 +1,16 @@
 @font-face {
     font-family: "F1";
-    src: url(font/Anton-Regular.ttf);
+    src: url(src/font/Anton-Regular.ttf);
 }
 
 @font-face {
     font-family: "F2";
-    src: url(font/Poppins-Regular.ttf);
+    src: url(src/font/Poppins-Regular.ttf);
 }
 
 @font-face {
     font-family: "F3";
-    src: url(font/LemonJellyPersonalUse-dEqR.ttf);
+    src: url(src/font/LemonJellyPersonalUse-dEqR.ttf);
 }
 
 * {
